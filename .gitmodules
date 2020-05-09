@@ -1,3 +1,8 @@
 [submodule "themes/hugo-theme-cleanwhite"]
 	path = themes/hugo-theme-cleanwhite
 	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+  
+
+[submodule "public"]
+	path = public 
+	url = https://github.com/kanozec/kanozec.github.io.git
